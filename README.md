@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SUDHARSAN.K
+- 👋 Hi, I’m SUDHARSAN K
 - 👀 I’m interested in Web-Development,Web Designing,Coding & Video Editing..
 - 🌱 I’m currently doing UG in B.E Computer Science
 - 💞️ I’m looking to collaborate on Front End & Web designer Jobs
